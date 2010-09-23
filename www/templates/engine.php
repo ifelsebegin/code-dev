@@ -44,7 +44,7 @@ $st = 1;
 for ($i = $st; $i < 101; $i++) { 
 echo $i; 
 parityLoop($st,$i,5,'<br>'); 
-}﻿
+}
 
 
 
